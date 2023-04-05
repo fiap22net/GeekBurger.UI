@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>20.0.3</Version>
+    <Description>GeekBurguer UI Microservice Contract</Description>
+  </PropertyGroup>
+
+</Project>
